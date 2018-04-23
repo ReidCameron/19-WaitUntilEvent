@@ -117,5 +117,3 @@ def input_a_float():
 # Calls  main  to start the ball rolling.
 # ----------------------------------------------------------------------
 main()
-
-def test_function():
